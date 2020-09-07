@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "42e31357809c3ec2e7a4fd6615106ef7",
+    "revision": "649ca87ae7a1983f372073d8fd68a831",
     "url": "/pokemon-app/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pokemon-app/static/css/2.39d2de15.chunk.css"
   },
   {
-    "revision": "cff642b1d269ade4e83e",
+    "revision": "27272bd2f832e92a7198",
     "url": "/pokemon-app/static/css/main.f505aff6.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pokemon-app/static/js/2.4727c79c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cff642b1d269ade4e83e",
-    "url": "/pokemon-app/static/js/main.bbcd5c40.chunk.js"
+    "revision": "27272bd2f832e92a7198",
+    "url": "/pokemon-app/static/js/main.a84547dd.chunk.js"
   },
   {
     "revision": "401f1db01ac3c1923dd0",
