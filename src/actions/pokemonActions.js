@@ -48,7 +48,7 @@ export const GetSecondPokemon = (pokemon) => async dispatch => {
             type: "POKEMON_SECOND_LOADING"
         });
 
-        const res = await axios.get(`http://cors-anywhere.herokuapp.com/https://pokeapi.glitch.me/v1/pokemon/${pokemon}`)
+        const res = await axios.get(`https://cors-anywhere.herokuapp.com/https://pokeapi.glitch.me/v1/pokemon/${pokemon}`)
         
         dispatch({
             type: "POKEMON_SECOND_SUCCES",
