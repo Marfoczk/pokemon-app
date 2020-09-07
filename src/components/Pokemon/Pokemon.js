@@ -197,7 +197,7 @@ const Pokemon = (props) => {
                     </StyledCard>
                     : null}
                     {/* <button onClick={()=>console.log(pokemonData)}></button> */}
-                    <button style={{height: '25px'}} onClick={()=>console.log(pokemonData.sprites)}></button>
+                    {/* <button style={{height: '25px'}} onClick={()=>console.log(pokemonData.sprites)}></button> */}
                     {/* <button style={{height: '25px'}}  onClick={()=>console.log(pokemonSecondData[0].description)}></button> */}
                 </StyledWrapper>
             }
