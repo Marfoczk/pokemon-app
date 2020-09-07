@@ -1,3 +1,8 @@
+## Pokemon APP React (Hooks), Redux (Hooks, Thunk), Material UI, Styled-Components
+## [LIVE DEMO](https://marfoczk.github.io/pokemon-app/)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
